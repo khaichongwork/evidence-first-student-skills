@@ -1,0 +1,4 @@
+interface:
+  display_name: "Explain My Own Code"
+  short_description: "Explain existing code at the learner level"
+  default_prompt: "Use $explain-my-own-code to teach me how this code works at my level."

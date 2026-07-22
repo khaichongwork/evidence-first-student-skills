@@ -1,0 +1,4 @@
+interface:
+  display_name: "Viva Prep"
+  short_description: "Prepare evidence-based project viva practice"
+  default_prompt: "Use $viva-prep to prepare a realistic viva from my own project."

@@ -1,0 +1,4 @@
+interface:
+  display_name: "Prove Before Done"
+  short_description: "Require evidence before claiming task completion"
+  default_prompt: "Use $prove-before-done to verify this task before calling it complete."

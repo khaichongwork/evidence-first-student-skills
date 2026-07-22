@@ -1,0 +1,4 @@
+interface:
+  display_name: "Rubric Requirement Matrix"
+  short_description: "Map project evidence to every rubric requirement"
+  default_prompt: "Use $rubric-requirement-matrix to map this rubric to concrete project evidence."
