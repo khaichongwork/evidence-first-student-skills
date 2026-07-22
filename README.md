@@ -1,6 +1,6 @@
 # Evidence-First Student Skills
 
-[![Validate skills](https://github.com/ewkhaichong9916-rgb/evidence-first-student-skills/actions/workflows/validate.yml/badge.svg)](https://github.com/ewkhaichong9916-rgb/evidence-first-student-skills/actions/workflows/validate.yml)
+[![Validate skills](https://github.com/khaichongwork/evidence-first-student-skills/actions/workflows/validate.yml/badge.svg)](https://github.com/khaichongwork/evidence-first-student-skills/actions/workflows/validate.yml)
 
 Four small Agent Skills for verifying project work, reviewing requirements, preparing for a viva, and understanding existing code. They are designed to support genuine learning and evidence-based completion without ghostwriting or fabricated proof.
 
